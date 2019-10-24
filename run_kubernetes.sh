@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# This tags and uploads an image to Docker Hub
+# This deploys the "microprediction" image to Kubernetes.
 
 # Step 1:
 # This is your Docker ID/path
