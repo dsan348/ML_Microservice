@@ -1,5 +1,3 @@
-<include a CircleCI status badge, here>
-
 [![CircleCI](https://circleci.com/gh/dsan348/ML_Microservice.svg?style=svg)](https://circleci.com/gh/dsan348/ML_Microservice)
 
 ## Project Overview
